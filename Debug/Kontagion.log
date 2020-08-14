@@ -1,0 +1,45 @@
+﻿  Actor.cpp
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(16,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(68,44): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(68,41): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(84,9): warning C4244:  'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(88,20): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(175,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(175,23): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(191,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(191,23): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(241,67): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(241,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(396,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(401,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(410,59): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(410,51): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(450,47): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(450,43): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(450,85): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(450,77): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(465,46): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(465,42): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(475,47): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(475,44): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(512,39): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(512,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(517,40): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(517,36): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(517,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(519,47): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(519,43): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(549,39): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(549,31): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(552,54): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(552,46): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(552,19): warning C4244:  'initializing': conversion from 'double' to 'Direction', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(558,48): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(558,44): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(651,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(651,54): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(661,44): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(661,36): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(671,62): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Kontagion\Actor.cpp(671,54): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  Kontagion.vcxproj -> C:\Users\sarah\Documents\CS32\Kontagion-skeleton-windows\Kontagion\Debug\Kontagion.exe
