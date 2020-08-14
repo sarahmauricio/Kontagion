@@ -5,3 +5,11 @@ Use the arrow keys to move up and down, the space key to shoot water, and enter 
 To learn more about the project, look through the document titled "spec".
 
 This was coded up as a project for CS32 at UCLA. I received 100% on this project. Assets and graphical backbone were provided for the assignment.
+
+Here's a walkthrough of the game:
+
+<img src='KontagionGame.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+This one is where I won the game and moved onto the next level:
+
+<img src='KontagionGame2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
